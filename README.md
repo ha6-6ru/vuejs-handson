@@ -23,5 +23,13 @@ http://web14.ric.co.jp/book/contents/book_1229.html
 <a href="https://ha6-6ru.github.io/vuejs-handson/">https://ha6-6ru.github.io/vuejs-handson/</a>  
 ※現在掲載している情報はありません。
 
+## ハンズオンで使ったサンプルコード
+* JavaScript版  
+https://github.com/ha6-6ru/vuejs-handson-sample-app-js
+* TypeScript版  
+https://github.com/ha6-6ru/vuejs-handson-sample-app-ts-composition-api
+* クラススタイル版  
+https://github.com/ha6-6ru/vuejs-handson-sample-app-ts
+
 ## 本書に関する質問
 GitHub Issueまたは、Twitterでお願いします。
