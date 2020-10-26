@@ -10,13 +10,13 @@
 さらに、2020年リリース予定のVue.js 3.0をいち早くキャッチアップ。Vue CLI 4に対応しつつ、Vue.js 2.xとの差分として新しい記述スタイル（Composition API）を併記するなど、バージョン移行を強力に支援します。
 
 ### 基本情報
-* [@ha6_6ru](https://twitter.com/ha6_6ru)著
-* 株式会社リックテレコム出版
+* 著者: [@ha6_6ru](https://twitter.com/ha6_6ru)
+* 出版社: 株式会社リックテレコム
 * B5変型判／624ページ
 * 2020年10月中旬刊行
 * 出版社の紹介ページ  
 http://web14.ric.co.jp/book/contents/book_1229.html
-* [Amazonから購入](https://amzn.to/3jSI1tc)
+* [Amazonから購入](https://amzn.to/3jSI1tc) [楽天ブックスから購入](https://books.rakuten.co.jp/rb/16461447/?l-id=search-c-item-text-01) [hontoから購入](https://honto.jp/netstore/pd-book_30542369.html) [ヨドバシカメラから購入](https://www.yodobashi.com/product/100000009003335342/) [紀伊国屋書店から購入](https://www.kinokuniya.co.jp/f/dsg-01-9784865942293)
 
 ## 本書に関する情報提供
 以下のサイトで書籍に関連する情報を掲載予定です。  
