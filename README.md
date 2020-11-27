@@ -19,9 +19,9 @@ http://web14.ric.co.jp/book/contents/book_1229.html
 * [Amazonから購入](https://amzn.to/3jSI1tc) [楽天ブックスから購入](https://books.rakuten.co.jp/rb/16461447/?l-id=search-c-item-text-01) [hontoから購入](https://honto.jp/netstore/pd-book_30542369.html) [ヨドバシカメラから購入](https://www.yodobashi.com/product/100000009003335342/) [紀伊国屋書店から購入](https://www.kinokuniya.co.jp/f/dsg-01-9784865942293)
 
 ## 本書に関する情報提供
-以下のサイトで書籍に関連する情報を掲載予定です。  
+以下のサイトで書籍に関連する情報を掲載しています。  
 <a href="https://ha6-6ru.github.io/vuejs-handson/">https://ha6-6ru.github.io/vuejs-handson/</a>  
-※現在掲載している情報はありません。
+※現在、初版の誤植およびリンク切れURLの更新情報を掲載しています。
 
 ## ハンズオンで使ったサンプルコード
 * JavaScript版  
