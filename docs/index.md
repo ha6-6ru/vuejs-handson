@@ -3,7 +3,7 @@
 ## 初版訂正情報
 
 ### 誤植
-現時点で初版において見つかっている誤植です :cold_sweat:
+現時点で初版において見つかっている誤植です 😰
 * p192 2番目のサンプルコード内  
 × `import { defineComponent, reactive, toRef }`  
 ○ `import { defineComponent, reactive, toRefs }`  
