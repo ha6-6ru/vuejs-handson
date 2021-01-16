@@ -53,3 +53,10 @@ https://vuetifyjs.com/ja/examples/layouts/centered
 ↓  
 https://v2.vuetifyjs.com/ja/examples/layouts/centered/
 
+## サンプルアプリケーションについて
+
+### axiosの脆弱性
+
+サンプルアプリケーションで使っている `axios` のバージョンには、`proxy`オプションを使った際の脆弱性が報告されています。  
+https://github.com/advisories/GHSA-4w2v-q235-vp99  
+稼働環境で利用する場合は `axios` のバージョンを `0.21.1` 以降に上げてください。
