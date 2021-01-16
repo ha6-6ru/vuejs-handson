@@ -21,7 +21,7 @@ http://web14.ric.co.jp/book/contents/book_1229.html
 ## 本書に関する情報提供
 以下のサイトで書籍に関連する情報を掲載しています。  
 <a href="https://ha6-6ru.github.io/vuejs-handson/">https://ha6-6ru.github.io/vuejs-handson/</a>  
-※現在、初版の誤植およびリンク切れURLの更新情報を掲載しています。
+※現在、初版の誤植およびリンク切れURLの更新情報、サンプルアプリケーションで使っているライブラリの脆弱性情報を掲載しています。
 
 ## ハンズオンで使ったサンプルコード
 * JavaScript版  
