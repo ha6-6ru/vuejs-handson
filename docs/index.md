@@ -7,6 +7,21 @@
 * p192 2番目のサンプルコード内  
 × `import { defineComponent, reactive, toRef }`  
 ○ `import { defineComponent, reactive, toRefs }`  
+* p291 2番目のサンプルコード `calender-event.ts`  
+  ×
+  ```JavaScript
+  import {
+    CalendarEventDetail,
+    CalendarEventTodayDetail
+  } from "@/store/calendar-event.d";
+  ```
+  ○
+  ```JavaScript
+  import {
+    CalendarEventDetail,
+    CalendarEventTodayDetail
+  } from "@/store/calendar-event.model";
+  ```
 * p390 脚注<85>  
 URL記述の直前に半角カギ括弧「[ 」の抜け
 
